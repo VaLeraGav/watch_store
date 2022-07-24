@@ -26,3 +26,11 @@
 ==========================
 [2022-07-21 18:38:00] Текст ошибки: Не найден вид C:\OpenServer\domains\watch.loc/app/views/Main/index.php | Файл: C:\OpenServer\domains\watch.loc\vendor\ishop\core\base\View.php, | Строка: 41
 ==========================
+[2022-07-23 20:07:44] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\watch.loc\vendor\ishop\core\Router.php, | Строка: 46
+==========================
+[2022-07-23 23:06:44] Текст ошибки: Too few arguments to function ishop\Registry::setProperty(), 1 passed in C:\OpenServer\domains\watch.loc\app\controllers\AppController.php on line 17 and exactly 2 expected | Файл: C:\OpenServer\domains\watch.loc\vendor\ishop\core\Registry.php, | Строка: 21
+==========================
+[2022-07-24 11:18:15] Текст ошибки: Страница не найдена | Файл: C:\OpenServer\domains\watch.loc\vendor\ishop\core\Router.php, | Строка: 46
+==========================
+[2022-07-24 16:09:57] Текст ошибки: Метод app\controllers\CurrencyController::changeAction не найден  | Файл: C:\OpenServer\domains\watch.loc\vendor\ishop\core\Router.php, | Строка: 40
+==========================
